@@ -18,3 +18,27 @@ body {
 #ui-id-1 {
     background-color: #FD0004;
 }
+.My_tab a:hover{
+	color:#000000!important;
+	}#Accordion1 {
+    min-height: 300px;
+    max-height: 500px;
+}
+.My_tab a:link{
+	color:#000000!important;
+	}#Accordion1 {
+    min-height: 300px;
+    max-height: 500px;
+}
+.My_tab a:visited{
+	color:#000000!important;
+	}#Accordion1 {
+    min-height: 300px;
+    max-height: 500px;
+}
+.My_tab a:active{
+	color:#000000!important;
+	}#Accordion1 {
+    min-height: 300px;
+    max-height: 500px;
+}
