@@ -3,5 +3,18 @@ body h1 {
     color: #222193;
 }
 body {
-    background-color: #add8e6;
+    background-color: #AFDFEF;
+}.ui-tabs-anchor {
+}
+#ui-id-2 {
+    background-color: #FFFA8E;
+}
+#ui-id-3 {
+    background-color: #61F5A0;
+}
+#ui-id-4 {
+    background-color: #BB1F1F;
+}
+#ui-id-1 {
+    background-color: #FD0004;
 }
